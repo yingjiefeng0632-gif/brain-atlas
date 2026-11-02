@@ -1,4 +1,4 @@
-# 大脑研究图谱 · Brain Research Atlas
+# 超声脑机接口 大脑研究图谱 · Brain Research Atlas
 
 一个单页、可交互的 3D 脑图谱网站：把 **脑区图鉴（科普）**、**FUSI 功能超声脑区**、**tFUS 经颅超声靶点** 三套标注叠在同一个 Z-Anatomy 脑模型上，并附两套文献库。
 
